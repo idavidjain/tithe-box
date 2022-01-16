@@ -1,1 +1,1 @@
-# charity box
+# Tithe Box
